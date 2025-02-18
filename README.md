@@ -1,2 +1,3 @@
 <h1>Netfilix Clone Projesi</h1>
-![](ekran.gif.gif)
+<h2>Ekran Goruntusu</h2>
+![](ekran.gif)
