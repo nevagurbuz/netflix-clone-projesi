@@ -22,6 +22,3 @@ This project replicates the basic Netflix UI and includes the following features
 | **HTML5**  | Structure of the webpage |
 | **CSS3**   | Styling and animations |
 
-## 📸 Screenshots
-
-📷 You can add project screenshots here.
